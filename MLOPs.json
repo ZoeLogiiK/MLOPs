@@ -1,11 +1,11 @@
 {
     "path": "$MLOPS",
     "load_package_once": true,
-    "version": "20.0",
+    "version": "21.0",
     "enable": true,
     "env": [
         {
-            "MLOPS": "H:/Github/MLOPS/"
+            "MLOPS": "C:\Github\Drieghan\Storage\MLOPs"
         },
         {
             "MLOPS_MODELS": "$MLOPS/data/models/"
